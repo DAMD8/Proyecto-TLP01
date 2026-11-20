@@ -37,3 +37,6 @@ Según la **Jerarquía de Chomsky**, una Gramática Libre de Contexto (Tipo 2) m
 ```bash
 python3 lexer.py
 python3 semantico.py
+```
+## Video Demostrativo (Fase 1)
+* **Enlace al video:** [Ver demostración en Drive] https://drive.google.com/file/d/1xf3tOsNO3Xjqg3IVxQJ_qwCuEtJdp4nM/view?usp=sharing  
